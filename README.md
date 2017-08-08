@@ -1,0 +1,1 @@
+# scala-chinese-word-segmentation
